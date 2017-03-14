@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "target": "es5",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "noUnusedLocals": true,
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "jsx": "react",
+        "jsxFactory": "h",
+        "noEmitHelpers": true,
+        "importHelpers": true,
+        "pretty": true,
+        "outDir": "ts-output",
+        "lib": [
+            "dom",
+            "es2015"
+        ]
+    }
+}
